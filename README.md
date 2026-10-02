@@ -1,4 +1,4 @@
-# Bakr — ML Engineer (Healthcare AI)
+# ML Engineer (Healthcare AI)
 
 5 end-to-end ML projects: dataset → model → evaluation → API → Docker →
 deployment. Every repo ships source + tests + README + deploy instructions,
