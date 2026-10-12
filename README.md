@@ -1,17 +1,20 @@
 # Abdelkarim Khayi  |  Applied ML Engineer
 
-**GenAI Systems + Healthcare ML · dataset → evaluation → API → Docker → Kubernetes**
+**Production-ready Systems · dataset → evaluation → API → Docker → Kubernetes**
 
-I build ML that survives contact with reality: priced in dollars, evaluated on the metric the business actually cares about, explained to the humans who have to trust it, and shippable in 60 seconds from a prebuilt image.
+Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelkarimkhayi-0A66C2?logo=linkedin)](https://www.linkedin.com/in/abdelkarimkhayi)
-[![X](https://img.shields.io/badge/X-@AbdelkarimKhayi-black?logo=x)](https://x.com/AbdelkarimKhayi)
-![CI](https://img.shields.io/badge/CI-8%2F8%20green-success?logo=githubactions)
-![Docker](https://img.shields.io/badge/Docker-7%20images%20live-2496ED?logo=docker)
+I am Abdelkarim, everyone calls me Karim. AI is my enthusiasm, building trustworthy and scalable systems that turns data into better decisions is my headline.
+Please, feel free to test my products, each is explained and shippable in 60 seconds from a prebuilt image.
+
+
+- 💼 [LinkedIn — in/abdelkarimkhayi](https://www.linkedin.com/in/abdelkarimkhayi)
+- 🐦 [X — @AbdelkarimKhayi](https://x.com/AbdelkarimKhayi)
+- 📂 Start with the [Core 3](#-core-3--start-here) each runs in 60 seconds.
 
 > **Open to:** Applied ML / AI Engineer roles (GenAI, healthcare, ML systems). I work AI-assisted (OpenCode/Claude) with rigorous review: green CI, hermetic tests, and documented failures on every repo.
 
-## Why my work is different
+## 🤖 Why my work is different
 
 - **Business first, metrics second.** No-show threshold tuned at $150 miss vs $5 false alarm → $178k saved. Readmission threshold tuned to cost, not 0.5 → $4.45M cost-optimal.
 - **GenAI with guardrails.** RAG over 80 clinical notes that *refuses* when evidence is weak and cites exact chunk IDs — retrieval graded 8/10 *before* generation existed.
@@ -68,10 +71,4 @@ Pneumonia and EuroSAT also run on Kubernetes: digest-pinned manifests in each re
 **What I won't claim:** retrospective ≠ prospective. Single-site data ≠ generalizable. Similarity scores ≠ calibrated probabilities. Every repo states its limits up front.
 
 Stack: Python · scikit-learn · XGBoost/LightGBM · PyTorch + TensorFlow (CPU) · FastAPI · Docker · Kubernetes (kind) · MLflow · FAISS · SHAP/Grad-CAM · pytest + ruff + GitHub Actions.
-
-## Let's connect
-
-- 💼 [LinkedIn — in/abdelkarimkhayi](https://www.linkedin.com/in/abdelkarimkhayi)
-- 🐦 [X — @AbdelkarimKhayi](https://x.com/AbdelkarimKhayi)
-- 📂 Start with the [Core 3](#-core-3--start-here) each runs in 60 seconds.
 
