@@ -1,4 +1,4 @@
-# Abdelkarim Khayi — Applied ML Engineer
+# Abdelkarim Khayi  |  Applied ML Engineer
 
 **GenAI Systems + Healthcare ML · dataset → evaluation → API → Docker → Kubernetes**
 
@@ -69,10 +69,9 @@ Pneumonia and EuroSAT also run on Kubernetes: digest-pinned manifests in each re
 
 Stack: Python · scikit-learn · XGBoost/LightGBM · PyTorch + TensorFlow (CPU) · FastAPI · Docker · Kubernetes (kind) · MLflow · FAISS · SHAP/Grad-CAM · pytest + ruff + GitHub Actions.
 
-## Let's talk
+## Let's connect
 
 - 💼 [LinkedIn — in/abdelkarimkhayi](https://www.linkedin.com/in/abdelkarimkhayi)
 - 🐦 [X — @AbdelkarimKhayi](https://x.com/AbdelkarimKhayi)
-- 📂 Start with the [Core 3](#-core-3--start-here) above — each runs in 60 seconds.
+- 📂 Start with the [Core 3](#-core-3--start-here) each runs in 60 seconds.
 
-*Healthcare AI + Earth Observation. Every model evaluated with the metric its business problem demands.*
