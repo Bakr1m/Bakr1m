@@ -1,8 +1,4 @@
-# Abdelkarim Khayi  |  Applied ML Engineer
-
-**Production-ready Systems · dataset → evaluation → API → Docker → Kubernetes**
-
-Hi there 👋
+# Hi there 👋
 
 I am Abdelkarim, everyone calls me Karim. AI is my enthusiasm, building trustworthy and scalable systems that turns data into better decisions is my headline.
 Please, feel free to test my products, each is explained and shippable in 60 seconds from a prebuilt image.
