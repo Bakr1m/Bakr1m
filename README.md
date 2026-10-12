@@ -19,15 +19,15 @@ Please, feel free to test my products, each is explained and shippable in 60 sec
 
 ## ⭐ Core 3 — start here
 
-### 1. [Clinical Document RAG](https://github.com/Bakr1m/clinical-document-rag) — my differentiator
+### 1. [Clinical Document RAG](https://github.com/Bakr1m/clinical-document-rag)  —>  my differentiator
 Clinicians drown in notes. This answers natural-language questions over 80 clinical documents with verified citations — and says `NOT FOUND IN THE PROVIDED NOTES` when evidence is weak.
 `FAISS + refusal contract · hit-rate 13/15, 11/17 graded` · `bakr1m/rag-api:latest`
 
-### 2. [Patient No-Show Optimizer](https://github.com/Bakr1m/noshow-optimizer) — money story
+### 2. [Patient No-Show Optimizer](https://github.com/Bakr1m/noshow-optimizer)  —> money story
 Missed appointments burn clinician time. Cost-tuned XGBoost + reminder simulation on 110k appointments.
 `XGBoost ROC-AUC 0.734 · $178k / 26% saved` · `bakr1m/noshow-api:latest`
 
-### 3. [Chest X-Ray Pneumonia Detector](https://github.com/Bakr1m/chest-xray-pneumonia-detector) — strongest metric
+### 3. [Chest X-Ray Pneumonia Detector](https://github.com/Bakr1m/chest-xray-pneumonia-detector)  —> strongest metric
 Radiology triage support: flag likely pneumonia for prioritized review. Decision support only — never autonomous diagnosis.
 `MobileNetV2 fine-tuned · ROC-AUC 0.962, recall 0.99 (4 misses / 390)` · `bakr1m/pneumonia-api:latest`
 
