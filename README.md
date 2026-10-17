@@ -1,11 +1,12 @@
-# Hi there 👋
+# Hi 👋
 
-I am Abdelkarim, everyone calls me Karim. AI is my enthusiasm, building trustworthy and scalable systems that turns data into better decisions is my headline.
-Please, feel free to test my products, each is explained and shippable in 60 seconds from a prebuilt image.
+I am Abdelkarim, everyone calls me Karim. AI is my enthusiasm, building trustworthy and scalable systems is my headline.
+Feel free to test the systems below, each is explained and shippable in 60 seconds from a prebuilt image.
 
+Reach out for issues or suggestions! 
 
-- 💼 [LinkedIn — in/abdelkarimkhayi](https://www.linkedin.com/in/abdelkarimkhayi)
-- 🐦 [X — @AbdelkarimKhayi](https://x.com/AbdelkarimKhayi)
+- 💼 [LinkedIn —> in/abdelkarimkhayi](https://www.linkedin.com/in/abdelkarimkhayi)
+- 🐦 [X —> @AbdelkarimKhayi](https://x.com/AbdelkarimKhayi)
 - 📂 Start with the [Core 3](#-core-3--start-here) each runs in 60 seconds.
 
 > **Open to:** Applied ML / AI Engineer roles (GenAI, healthcare, ML systems). I work AI-assisted (OpenCode/Claude) with rigorous review: green CI, hermetic tests, and documented failures on every repo.
