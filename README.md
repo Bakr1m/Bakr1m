@@ -1,17 +1,18 @@
 # Hi 👋
 
 I am Abdelkarim, everyone calls me Karim. AI is my enthusiasm, building trustworthy and scalable systems is my headline.
-Feel free to test the systems below, each is explained and shippable in 60 seconds from a prebuilt image.
+
+Feel free to test my systems below, each is explained and shippable in 60 seconds from a prebuilt image.
 
 Reach out for issues or suggestions! 
 
-- 💼 [LinkedIn —> in/abdelkarimkhayi](https://www.linkedin.com/in/abdelkarimkhayi)
-- 🐦 [X —> @AbdelkarimKhayi](https://x.com/AbdelkarimKhayi)
-- 📂 Start with the [Core 3](#-core-3--start-here) each runs in 60 seconds.
+💼 [LinkedIn](https://www.linkedin.com/in/abdelkarimkhayi)
+🪶 [X](https://x.com/AbdelkarimKhayi)
+📂 Start with the [Core 3](#-core-3--start-here) each runs in 60 seconds.
 
 > **Open to:** Applied ML / AI Engineer roles (GenAI, healthcare, ML systems). I work AI-assisted (OpenCode/Claude) with rigorous review: green CI, hermetic tests, and documented failures on every repo.
 
-## 🤖 Why my work is different
+## 🤖 Why my work is different ?
 
 - **Business first, metrics second.** No-show threshold tuned at $150 miss vs $5 false alarm → $178k saved. Readmission threshold tuned to cost, not 0.5 → $4.45M cost-optimal.
 - **GenAI with guardrails.** RAG over 80 clinical notes that *refuses* when evidence is weak and cites exact chunk IDs — retrieval graded 8/10 *before* generation existed.
@@ -32,7 +33,7 @@ Missed appointments burn clinician time. Cost-tuned XGBoost + reminder simulatio
 Radiology triage support: flag likely pneumonia for prioritized review. Decision support only — never autonomous diagnosis.
 `MobileNetV2 fine-tuned · ROC-AUC 0.962, recall 0.99 (4 misses / 390)` · `bakr1m/pneumonia-api:latest`
 
-## All production systems
+## 🚀 All production systems
 
 | Project | Problem | Approach | Key result | Try it |
 |---|---|---|---|---|
@@ -52,13 +53,13 @@ curl http://localhost:8003/health
 
 Pneumonia and EuroSAT also run on Kubernetes: digest-pinned manifests in each repo's `k8s/`, validated on a local `kind` cluster (probes + live predictions in-cluster).
 
-## Research
+## 📃 Research
 
 | Project | Question | Honest result |
 |---|---|---|
 | [MAGIC Gamma-Telescope Classifier](https://github.com/Bakr1m/magic-gamma-telescope) | Which model family separates gamma showers from hadron background? | MLP 0.8754 acc — after fixing the scaler leakage + unstratified split in the original analysis. pytest + CI, no serving by design. |
 
-## How I build trustworthy systems
+## How I build trustworthy systems ?
 
 - **Hermetic tests**: pass with real data and with synthetic fallbacks — CI has no `data/` by design. Import-time artifact loads are banned; models load lazily, missing artifacts fail as request-time errors.
 - **Release-pinned artifacts**: Dockerfiles fetch models by exact release tag and verify SHA256 at build time — never a moving tag, never baked from a laptop.
