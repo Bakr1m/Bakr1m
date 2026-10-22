@@ -6,9 +6,9 @@ Feel free to test my systems below, each is explained and shippable in 60 second
 
 Reach out for issues or suggestions! 
 
-💼 [LinkedIn](https://www.linkedin.com/in/abdelkarimkhayi)
-🪶 [X](https://x.com/AbdelkarimKhayi)
-📂 Start with the [Core 3](#-core-3--start-here) each runs in 60 seconds.
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelkarimkhayi)
+- 🪶 [X](https://x.com/AbdelkarimKhayi)
+- 📂 Start with these [Core 3](#-core-3--start-here).
 
 > **Open to:** Applied ML / AI Engineer roles (GenAI, healthcare, ML systems). I work AI-assisted (OpenCode/Claude) with rigorous review: green CI, hermetic tests, and documented failures on every repo.
 
