@@ -8,7 +8,7 @@ Reach out for issues or suggestions!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelkarimkhayi)
 - 🪶 [X](https://x.com/AbdelkarimKhayi)
-- 📂 Start with these [Core 3](#-core-3--start-here).
+- 📂 Start with these [Core 3](#-core-3--start-here)
 
 > **Open to:** Applied ML / AI Engineer roles (GenAI, healthcare, ML systems). I work AI-assisted (OpenCode/Claude) with rigorous review: green CI, hermetic tests, and documented failures on every repo.
 
